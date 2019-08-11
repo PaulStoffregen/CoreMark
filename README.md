@@ -15,6 +15,7 @@ executing state machines.
 | Teensy 3.5             | 265.50   |
 | Teensy 3.2 (96MHz overclock, faster optimizations)            | 218.26   |
 | Adafruit Metro M4 (120MHz, smaller code) | 214.85   |
+| Teensy 3.2 (72MHz)            | 168.62   |
 | Teensy 3.2 (72MHz, smaller code)            | 126.76   |
 | Arduino Due            | 94.95    |
 | Arduino Zero           | 56.86    |
