@@ -20,6 +20,7 @@ executing state machines.
 | Arduino Due            | 94.95    |
 | Arduino Zero           | 56.86    |
 | Arduino Mega           | 7.03     |
+| Arduino Nano Every     | 8.20     |
 
 (larger numbers are better)
 
