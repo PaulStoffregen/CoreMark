@@ -19,8 +19,8 @@ executing state machines.
 | Teensy 3.2 (72MHz, smaller code)            | 126.76   |
 | Arduino Due            | 94.95    |
 | Arduino Zero           | 56.86    |
-| Arduino Mega           | 7.03     |
 | Arduino Nano Every     | 8.20     |
+| Arduino Mega           | 7.03     |
 
 (larger numbers are better)
 
