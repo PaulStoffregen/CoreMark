@@ -6,6 +6,7 @@ executing state machines.
 
 | Board                  | CoreMark |
 | ---------------------- | :------: |
+| Teensy 4.0 (1GHz overclock, 'fastest' optimization) | 4161.46 |
 | Teensy 4.0             | 2313.57  |
 | Adafruit Metro M4 (200MHz overclock, 'dragons' optimization) | 536.35   |
 | Adafruit Metro M4 (180MHz overclock, faster optimizations) | 458.19   |
