@@ -18,6 +18,7 @@ executing state machines.
 | Teensy 3.2 (72MHz)            | 168.62   |
 | Teensy 3.2 (72MHz, smaller code)            | 126.76   |
 | Arduino Due            | 94.95    |
+| STM32 Blue Pill (STM32F103C8T6) | 81.06 |
 | Arduino Zero           | 56.86    |
 | Arduino Nano Every     | 8.20     |
 | Arduino Mega           | 7.03     |
