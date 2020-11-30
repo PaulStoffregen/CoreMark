@@ -7,6 +7,7 @@ executing state machines.
 | Board                  | CoreMark |
 | ---------------------- | :------: |
 | Teensy 4.0             | 2313.57  |
+| M5Stack CORE (2 threads/cores : 361.14 + 351.23) | 712.37   |
 | Adafruit Metro M4 (200MHz overclock, 'dragons' optimization) | 536.35   |
 | Adafruit Metro M4 (180MHz overclock, faster optimizations) | 458.19   |
 | Teensy 3.6             | 440.72   |
